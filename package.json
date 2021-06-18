@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Doode1524/mern-tinder-clone-backend#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^5.12.14"
   }
